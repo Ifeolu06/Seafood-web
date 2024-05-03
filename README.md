@@ -1,2 +1,2 @@
 # Seafood-web
-practices on HTML CSS
+practice on HTML CSS
